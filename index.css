@@ -1,0 +1,39 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.yellow-box {
+  height: 200px;
+  width: 200px;
+  background-color: #fbbf24;
+  color: #ffffff;
+}
+.blue-box {
+  height: 400px;
+  width: 400px;
+  background-color: #38bdf8;
+  color: #ffffff;
+}
+.pink-box {
+  height: 600px;
+  width: 600px;
+  background-color: #ec4899;
+  color: #ffffff;
+}
+.boxes-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.para {
+  color: #ffffff;
+  font-family: "Bree Serif";
+  font-size: 15px;
+}
+.heading {
+  font-family: "Roboto";
+  font-size: 25px;
+}
